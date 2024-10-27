@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently working on my portfolio using react and learning laravel alongside with python
+
 
 
 ## 🌐 Socials:
